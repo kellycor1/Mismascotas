@@ -6,4 +6,4 @@ The social network for pet lovers. Connect with other pet owners, share photos a
 
 **How does it work?**
 
-PETS uses the Instagram API to make it easy for you to share photos and videos of your pets directly from the application. Explore, interact, and share the joy of having a pet!
+PETS uses the Instagram API to make it easy for you to share photos and videos of your pets directly from the application. Explore, interact, and share the joy of having a pet!!!
